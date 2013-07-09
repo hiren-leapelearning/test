@@ -1,5 +1,5 @@
 <?php
-echo "first test";
+echo "Master Environment";
 //echo "second test";
 //echo "third test";
 //echo "forth test";
