@@ -1,5 +1,3 @@
 <?php
-echo "first test";
-echo "second test";
-echo "third test";
-echo "forth test";
+echo "<a href='db.php'>DB</a>";
+echo "Environment: ".$_ENV['DEPLOYTO'];

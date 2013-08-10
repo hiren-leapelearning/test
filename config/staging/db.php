@@ -1,0 +1,1 @@
+<?php echo "Staging database"; ?>
